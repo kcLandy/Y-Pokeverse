@@ -1,0 +1,41 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.sln.docstates
+*.unityproj
+
+# Unity metadata
+/[Aa]ssets/[Ss]treamingAssets/
+/[Aa]ssets/[Aa]ddressableAssetsData/*/*.bin
+/[Aa]ssets/[Aa]ddressableAssetsData/*/*.hash
+
+# Package management
+Packages/
+
+# Cache files
+/[Uu]ser[Ss]ettings/
+
+# JetBrains Rider
+.idea/
+*.iml
+
+# Logs and crash reports
+*.log
+*.stacktrace
+
+# Ignore Play mode test results
+Assets/Scenes/Tests/PlayModeTests/
+
+# Auto-generated VS Code settings
+.vscode/

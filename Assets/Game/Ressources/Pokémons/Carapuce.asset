@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5f9d118963fc4c40820d91c7502e911, type: 3}
+  m_Name: Carapuce
+  m_EditorClassIdentifier: 
+  name: Carapuce
+  description: 
+  frontSprite: {fileID: 7028616704906629411, guid: 5e8e41d85c7063f439c7c0681f75d869, type: 3}
+  backSprite: {fileID: 4065212991675715447, guid: f2362fdf2ae5a2f4db681cf335c85f36, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 44
+  attack: 48
+  defense: 65
+  "sp\xE9Attack": 50
+  "sp\xE9Defense": 50
+  speed: 43
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f547add6226ee224ca4d8ca7a90b1fc7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9b0131cbb5b66fd438c0c318260e22e2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 63767db651eaa07409155013fc711dc0, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: e88fcd5fee9b4b24c8f5fdf3b0aa6632, type: 2}
+    level: 15

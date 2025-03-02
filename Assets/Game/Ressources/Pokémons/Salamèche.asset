@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5f9d118963fc4c40820d91c7502e911, type: 3}
+  m_Name: "Salam\xE8che"
+  m_EditorClassIdentifier: 
+  name: "Salam\xE8che"
+  description: 
+  frontSprite: {fileID: -4178046375966092550, guid: 7bb75829a42c85444a9f01a8759dd325, type: 3}
+  backSprite: {fileID: 3326971659086699885, guid: dc0b3dfd79c580141b385f8613e8eec6, type: 3}
+  type1: 2
+  type2: 0
+  maxHP: 39
+  attack: 52
+  defense: 43
+  "sp\xE9Attack": 50
+  "sp\xE9Defense": 50
+  speed: 65
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 9bb5ae92988421a45816774c11ea6f11, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4090945401414044fa4d4fae5520d93c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: fc57ec4ad8f960c44bb57a7efb4f4fa4, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: af9005fcb9a6a9b4d8ce960271baf96f, type: 2}
+    level: 15

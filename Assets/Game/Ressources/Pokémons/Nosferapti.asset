@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5f9d118963fc4c40820d91c7502e911, type: 3}
+  m_Name: Nosferapti
+  m_EditorClassIdentifier: 
+  name: Nosferapti
+  description: 
+  frontSprite: {fileID: -8419024768148562069, guid: 1a0f3eef5aa405a46b8c8514367b1838, type: 3}
+  backSprite: {fileID: -8419024768148562069, guid: 6c785c3b33a8df348bdcb6a076f3c8b8, type: 3}
+  type1: 8
+  type2: 10
+  maxHP: 40
+  attack: 45
+  defense: 32
+  "sp\xE9Attack": 40
+  "sp\xE9Defense": 40
+  speed: 55
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 8d84dbce0adfb184785dfc9c8a64ccde, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 9e812b0365d272b4ca4ab27345df4e71, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 1e238ee75cf95c048826fc26b2294de1, type: 2}
+    level: 15

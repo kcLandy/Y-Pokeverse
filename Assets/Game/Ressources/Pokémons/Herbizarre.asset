@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5f9d118963fc4c40820d91c7502e911, type: 3}
+  m_Name: Herbizarre
+  m_EditorClassIdentifier: 
+  name: Herbizarre
+  description: 
+  frontSprite: {fileID: 6937817954938267909, guid: 1f302701ecdc04d4297442a61df0901e, type: 3}
+  backSprite: {fileID: 2714453574471835212, guid: 004e75dc51a96d24bba5bad6edd1ad71, type: 3}
+  type1: 5
+  type2: 8
+  maxHP: 60
+  attack: 62
+  defense: 63
+  "sp\xE9Attack": 80
+  "sp\xE9Defense": 80
+  speed: 60
+  learnableMoves: []
