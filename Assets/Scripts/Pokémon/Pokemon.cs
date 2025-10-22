@@ -116,9 +116,9 @@ public class Pokemon
                 StatBoosts[stat] = Mathf.Clamp(StatBoosts[stat] + boost, -6, 6);
 
                 if (boost > 0)
-                StatusChanges.Enqueue($"{Base.Name}'s {stat} augmente!");
+                StatusChanges.Enqueue($"{Base.Name} {stat} augmente!");
                 else
-                StatusChanges.Enqueue($"{Base.Name}'s {stat} baisse!");
+                StatusChanges.Enqueue($"{Base.Name} {stat} baisse!");
 
 
                 Debug.Log($"{stat} has been boosted to {StatBoosts[stat]}");

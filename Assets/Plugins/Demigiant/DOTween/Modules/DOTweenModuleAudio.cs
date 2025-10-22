@@ -7,6 +7,7 @@ using DG.Tweening.Core;
 using DG.Tweening.Plugins.Options;
 using UnityEngine;
 using UnityEngine.Audio; // Required for AudioMixer
+using UnityEngine.UI;
 
 #pragma warning disable 1591
 namespace DG.Tweening

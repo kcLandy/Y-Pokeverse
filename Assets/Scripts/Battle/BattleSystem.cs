@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 
 
 public enum BattleState { Start, ActionSelection, MoveSelection, RunningTurn, Busy, PartyScreen, BattleOver }
@@ -13,6 +14,9 @@ public class BattleSystem : MonoBehaviour
     [SerializeField] BattleUnit enemyUnit;
     [SerializeField] BattleDialogBox dialogBox;
     [SerializeField] PartyScreen partyScreen;
+    [SerializeField] Image playerImage;
+    [SerializeField] Image trainerImage;
+
 
     public event Action<bool> OnBattleOver;
 
@@ -44,20 +48,59 @@ public class BattleSystem : MonoBehaviour
         this.trainerParty = trainerParty;
 
         isTrainerBattle = true;
+        player = playerParty.GetComponent<PlayerController>();
+        trainer = trainerParty.GetComponent<TrainerController>();
+
         StartCoroutine(SetupBattle());
     }
 
     public IEnumerator SetupBattle()
     {
-        playerUnit.Setup(playerParty.GetHealthyPokemon());
-        enemyUnit.Setup(wildPokemon);
+        playerUnit.Clear();
+        enemyUnit.Clear();
+
+        if (!isTrainerBattle)
+        {
+            //Wild Pokemon Battle
+            playerUnit.Setup(playerParty.GetHealthyPokemon());
+            enemyUnit.Setup(wildPokemon);
+
+            dialogBox.SetMoveNames(playerUnit.Pokemon.Moves);
+            yield return dialogBox.TypeDialog($"Un {enemyUnit.Pokemon.Base.Name} sauvage apparaît!");
+        }
+        else
+        {
+            //Trainer Battle
+            
+            // Show trainer and player sprites
+            playerUnit.gameObject.SetActive(false);
+            enemyUnit.gameObject.SetActive(false);
+
+            playerImage.gameObject.SetActive(true);
+            trainerImage.gameObject.SetActive(true);
+            playerImage.sprite = player.Sprite;
+            trainerImage.sprite = trainer.Sprite;
+
+            yield return dialogBox.TypeDialog($"{trainer.Name} veut se battre");
+
+            // Send out first pokemon of the trainer
+            trainerImage.gameObject.SetActive(false);
+            enemyUnit.gameObject.SetActive(true);
+            var enemyPokemon = trainerParty.GetHealthyPokemon();
+            enemyUnit.Setup(enemyPokemon);
+            yield return dialogBox.TypeDialog($"{trainer.Name} envoie {enemyPokemon.Base.Name}");
+
+            // Send out first pokemon of the player
+            playerImage.gameObject.SetActive(false);
+            playerUnit.gameObject.SetActive(true);
+            var playerPokemon = playerParty.GetHealthyPokemon();
+            playerUnit.Setup(playerPokemon);
+            yield return dialogBox.TypeDialog($"Défonce le {playerPokemon.Base.Name} !");
+            dialogBox.SetMoveNames(playerUnit.Pokemon.Moves);
+        }
+
 
         partyScreen.Init();
-
-        dialogBox.SetMoveNames(playerUnit.Pokemon.Moves);
-
-        yield return dialogBox.TypeDialog($"Un {enemyUnit.Pokemon.Base.Name} sauvage apparaît!");
-
         ActionSelection();
     }
 
@@ -196,7 +239,7 @@ public class BattleSystem : MonoBehaviour
 
             if (targetUnit.Pokemon.HP <= 0)
             {
-                yield return dialogBox.TypeDialog($"{targetUnit.Pokemon.Base.Name} s'évanoui");
+                yield return dialogBox.TypeDialog($"{targetUnit.Pokemon.Base.Name} est KO");
                 targetUnit.PlayFaintAnimation();
                 yield return new WaitForSeconds(2f);
 
@@ -248,7 +291,7 @@ public class BattleSystem : MonoBehaviour
         yield return sourceUnit.Hud.UpdateHP();
         if (sourceUnit.Pokemon.HP <= 0)
         {
-            yield return dialogBox.TypeDialog($"{sourceUnit.Pokemon.Base.Name} s'évanoui");
+            yield return dialogBox.TypeDialog($"{sourceUnit.Pokemon.Base.Name} est KO");
             sourceUnit.PlayFaintAnimation();
             yield return new WaitForSeconds(2f);
 
@@ -305,14 +348,26 @@ public class BattleSystem : MonoBehaviour
 ;           
         }
         else 
-            BattleOver(true);
-         
+        {
+            if (!isTrainerBattle)
+            {
+                BattleOver(true);
+            }
+            else 
+            {
+                var nextPokemon = trainerParty.GetHealthyPokemon();
+                if (nextPokemon != null)
+                    StartCoroutine(SendNextTrainerPokemon(nextPokemon));
+                else
+                    BattleOver(true);
+            }
+        }
         }
 
     IEnumerator ShowDamageDetails(DamageDetails damageDetails)
     {
         if (damageDetails.Critical > 1f)
-            yield return dialogBox.TypeDialog("dégâts critiques");
+            yield return dialogBox.TypeDialog("coup critique");
 
         if (damageDetails.TypeEffectiveness > 1f)
             yield return dialogBox.TypeDialog("C’est super efficace !");
@@ -429,7 +484,7 @@ public class BattleSystem : MonoBehaviour
             var selectedMember = playerParty.Pokemons[currentMember];
             if (selectedMember.HP <= 0)
             {
-                partyScreen.SetMessageText("Vous ne pouvez pas envoyer un Pokémon évanoui");
+                partyScreen.SetMessageText("Vous ne pouvez pas envoyer un Pokémon KO");
                 return;
             }
             if (selectedMember == playerUnit.Pokemon)
@@ -472,5 +527,16 @@ public class BattleSystem : MonoBehaviour
         yield return dialogBox.TypeDialog($"Go {newPokemon.Base.Name}");
 
         state = BattleState.RunningTurn;
+    }
+
+    IEnumerator SendNextTrainerPokemon(Pokemon nextPokemon)
+    {
+        state = BattleState.Busy;
+
+        enemyUnit.Setup(nextPokemon);
+        yield return dialogBox.TypeDialog($"{trainer.Name} envoie {nextPokemon.Base.Name}");
+
+        state = BattleState.RunningTurn;
+
     }
 }

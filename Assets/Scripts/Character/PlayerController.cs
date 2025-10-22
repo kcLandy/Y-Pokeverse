@@ -4,6 +4,9 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
+    [SerializeField] String name;
+    [SerializeField] Sprite sprite;
+
     public event Action OnEncountered; // Event to check if the player encountered a Pokémon
     public event Action<Collider2D> OnEnterTrainersView; // Event to check if the player entered the trainer's view
     private Vector2 input; // Vector2 to store the input of the player
@@ -79,5 +82,13 @@ public class PlayerController : MonoBehaviour
             character.Animator.IsMoving = false;
             OnEnterTrainersView?.Invoke(collider);
         }
+    }
+    
+    public string Name {
+        get { return name; }
+    }
+
+    public Sprite Sprite {
+        get { return sprite; }
     }
 }

@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 9d5999c7901fb2944863f2186576df6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7726262111058076176
+    second: make-pixel-art-pokemon-trainer-sprites_0
+  - first:
+      213: 2617102790072089991
+    second: make-pixel-art-pokemon-trainer-sprites_1
+  - first:
+      213: -6102158813908515395
+    second: make-pixel-art-pokemon-trainer-sprites_2
+  - first:
+      213: 2930393522384305818
+    second: make-pixel-art-pokemon-trainer-sprites_3
+  - first:
+      213: -804936881974841712
+    second: make-pixel-art-pokemon-trainer-sprites_4
+  - first:
+      213: 1765434560328920772
+    second: make-pixel-art-pokemon-trainer-sprites_5
+  - first:
+      213: -3632997541989234113
+    second: make-pixel-art-pokemon-trainer-sprites_6
+  - first:
+      213: 7051055091541824002
+    second: make-pixel-art-pokemon-trainer-sprites_7
+  - first:
+      213: -6659296320775018000
+    second: make-pixel-art-pokemon-trainer-sprites_8
+  - first:
+      213: -4173243195726596598
+    second: make-pixel-art-pokemon-trainer-sprites_9
+  - first:
+      213: 5835049906547298967
+    second: make-pixel-art-pokemon-trainer-sprites_10
+  - first:
+      213: 1122401894913432093
+    second: make-pixel-art-pokemon-trainer-sprites_11
+  - first:
+      213: 1616369490783873325
+    second: make-pixel-art-pokemon-trainer-sprites_12
+  - first:
+      213: 8843165579677732920
+    second: make-pixel-art-pokemon-trainer-sprites_13
+  - first:
+      213: 6359685558334833075
+    second: make-pixel-art-pokemon-trainer-sprites_14
+  - first:
+      213: -7176836710061724294
+    second: make-pixel-art-pokemon-trainer-sprites_15
+  - first:
+      213: 1734623202219928029
+    second: make-pixel-art-pokemon-trainer-sprites_16
+  - first:
+      213: 3863380301863430866
+    second: make-pixel-art-pokemon-trainer-sprites_17
+  - first:
+      213: 5097856442936978864
+    second: make-pixel-art-pokemon-trainer-sprites_18
+  - first:
+      213: -1062402824380215970
+    second: make-pixel-art-pokemon-trainer-sprites_19
+  - first:
+      213: -8199702256236954293
+    second: make-pixel-art-pokemon-trainer-sprites_20
+  - first:
+      213: -2928919736262880764
+    second: make-pixel-art-pokemon-trainer-sprites_21
+  - first:
+      213: 2604309566242044793
+    second: make-pixel-art-pokemon-trainer-sprites_22
+  - first:
+      213: -5825459168360595156
+    second: make-pixel-art-pokemon-trainer-sprites_23
+  - first:
+      213: 4264788812884818445
+    second: make-pixel-art-pokemon-trainer-sprites_24
+  - first:
+      213: -8448088145615956911
+    second: make-pixel-art-pokemon-trainer-sprites_25
+  - first:
+      213: -5185483888304931299
+    second: make-pixel-art-pokemon-trainer-sprites_26
+  - first:
+      213: -6406692587858701602
+    second: make-pixel-art-pokemon-trainer-sprites_27
+  - first:
+      213: 6207779835276023506
+    second: make-pixel-art-pokemon-trainer-sprites_28
+  - first:
+      213: 2528582960601873538
+    second: make-pixel-art-pokemon-trainer-sprites_29
+  - first:
+      213: 5362389203544230064
+    second: make-pixel-art-pokemon-trainer-sprites_30
+  - first:
+      213: -6064803807391487942
+    second: make-pixel-art-pokemon-trainer-sprites_31
+  - first:
+      213: 7937259341615668287
+    second: make-pixel-art-pokemon-trainer-sprites_32
+  - first:
+      213: -7566061148444095174
+    second: make-pixel-art-pokemon-trainer-sprites_33
+  - first:
+      213: -367234929958919911
+    second: make-pixel-art-pokemon-trainer-sprites_34
+  - first:
+      213: -246924527923376985
+    second: make-pixel-art-pokemon-trainer-sprites_35
+  - first:
+      213: 5311720070752126439
+    second: make-pixel-art-pokemon-trainer-sprites_36
+  - first:
+      213: -7341753775702522789
+    second: make-pixel-art-pokemon-trainer-sprites_37
+  - first:
+      213: 7325514732843558205
+    second: make-pixel-art-pokemon-trainer-sprites_38
+  - first:
+      213: -4327684957977586967
+    second: make-pixel-art-pokemon-trainer-sprites_39
+  - first:
+      213: 9191101775481079083
+    second: make-pixel-art-pokemon-trainer-sprites_40
+  - first:
+      213: 4677118464475635751
+    second: make-pixel-art-pokemon-trainer-sprites_41
+  - first:
+      213: 8949646113888791444
+    second: make-pixel-art-pokemon-trainer-sprites_42
+  - first:
+      213: 4075538684135219704
+    second: make-pixel-art-pokemon-trainer-sprites_43
+  - first:
+      213: 3340727461455946266
+    second: make-pixel-art-pokemon-trainer-sprites_44
+  - first:
+      213: 7235934028779069734
+    second: make-pixel-art-pokemon-trainer-sprites_45
+  - first:
+      213: 2286042764789937154
+    second: make-pixel-art-pokemon-trainer-sprites_46
+  - first:
+      213: -6247518058890913405
+    second: make-pixel-art-pokemon-trainer-sprites_47
+  - first:
+      213: -2165692380468750992
+    second: make-pixel-art-pokemon-trainer-sprites_48
+  - first:
+      213: 6303429683983399914
+    second: make-pixel-art-pokemon-trainer-sprites_49
+  - first:
+      213: -4078197079362685186
+    second: make-pixel-art-pokemon-trainer-sprites_50
+  - first:
+      213: -8172770825089011240
+    second: make-pixel-art-pokemon-trainer-sprites_51
+  - first:
+      213: 2474547052159319144
+    second: make-pixel-art-pokemon-trainer-sprites_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 623
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0122d2b5472393b60800000000000000
+      internalID: 7726262111058076176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5
+        width: 422
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d3eee1f11d15420800000000000000
+      internalID: 2617102790072089991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 639
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5c6fda3e6c05ba0800000000000000
+      internalID: -6102158813908515395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 624
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e72d9f169daa820800000000000000
+      internalID: 2930393522384305818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 639
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e674bab2a44d4f0800000000000000
+      internalID: -804936881974841712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 591
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce6a920165108810800000000000000
+      internalID: 1765434560328920772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 548
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a4dd7ebfff49dc0800000000000000
+      internalID: -3632997541989234113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 591
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2025f076f316ad160800000000000000
+      internalID: 7051055091541824002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 549
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9a32a574d6593a0800000000000000
+      internalID: -6659296320775018000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 547
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06766d9c69a516c0800000000000000
+      internalID: -4173243195726596598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 548
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7929d6e79f24af050800000000000000
+      internalID: 5835049906547298967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 486
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a5a81a392939f00800000000000000
+      internalID: 1122401894913432093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 501
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29a3fbec7f7e6610800000000000000
+      internalID: 1616369490783873325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 486
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83017aadd3c39ba70800000000000000
+      internalID: 8843165579677732920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 501
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1cabbf154224850800000000000000
+      internalID: 6359685558334833075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 454
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da9c56901c66c90800000000000000
+      internalID: -7176836710061724294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 411
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9287bac9e921810800000000000000
+      internalID: 1734623202219928029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 455
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daafcc5aeb7d9530800000000000000
+      internalID: 3863380301863430866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 411
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde13ddc693fb640800000000000000
+      internalID: 5097856442936978864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 410
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d027492469141f0800000000000000
+      internalID: -1062402824380215970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 411
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4df609ed3ec43e80800000000000000
+      internalID: -8199702256236954293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029b6894036a57d0800000000000000
+      internalID: -2928919736262880764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 364
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b320590cd542420800000000000000
+      internalID: 2604309566242044793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 349
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21035040cfc72fa0800000000000000
+      internalID: -5825459168360595156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 364
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a3f0a54d29f2b30800000000000000
+      internalID: 4264788812884818445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 316
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1545f59679c52ca80800000000000000
+      internalID: -8448088145615956911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 274
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eb211a0e57908b0800000000000000
+      internalID: -5185483888304931299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 317
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2dd83190bd617a0800000000000000
+      internalID: -6406692587858701602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 232
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6d575bed6762650800000000000000
+      internalID: 6207779835276023506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cb7cf3ec4571320800000000000000
+      internalID: 2528582960601873538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 232
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8c4a8c1980b6a40800000000000000
+      internalID: 5362389203544230064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 273
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a386ef3e11d75dba0800000000000000
+      internalID: -6064803807391487942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_32
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 217
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c172b515fc62e60800000000000000
+      internalID: 7937259341615668287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_33
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 184
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d0b12e873fff690800000000000000
+      internalID: -7566061148444095174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 141
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911eea2e6c157eaf0800000000000000
+      internalID: -367234929958919911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 184
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7accbca337fb29cf0800000000000000
+      internalID: -246924527923376985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 142
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e54e7bf24507b940800000000000000
+      internalID: 5311720070752126439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b544edad6d9dc1a90800000000000000
+      internalID: -7341753775702522789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 141
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e70856d479a560800000000000000
+      internalID: 7325514732843558205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2d1f3b579f0f3c0800000000000000
+      internalID: -4327684957977586967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 95
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2503064e5a5d8f70800000000000000
+      internalID: 9191101775481079083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_41
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 80
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ad77867678e040800000000000000
+      internalID: 4677118464475635751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_42
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 95
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bebcb29b7833c70800000000000000
+      internalID: 8949646113888791444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f12e3017d83f8830800000000000000
+      internalID: 4075538684135219704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_44
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 47
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12697f1de5ac5e20800000000000000
+      internalID: 3340727461455946266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621a98b59a33b6460800000000000000
+      internalID: 7235934028779069734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 48
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204f7a858c7a9bf10800000000000000
+      internalID: 2286042764789937154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 5
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38918fb1d6b5c49a0800000000000000
+      internalID: -6247518058890913405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075d369114ae1f1e0800000000000000
+      internalID: -2165692380468750992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebbb7c86e74a7750800000000000000
+      internalID: 6303429683983399914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef63d801d555767c0800000000000000
+      internalID: -4078197079362685186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1b4eb5c3c749e80800000000000000
+      internalID: -8172770825089011240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-pixel-art-pokemon-trainer-sprites_52
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 5
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c32f7ee6b575220800000000000000
+      internalID: 2474547052159319144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 27b509dd0986d3a4cb8f7d47180b8474
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      make-pixel-art-pokemon-trainer-sprites_0: 7726262111058076176
+      make-pixel-art-pokemon-trainer-sprites_1: 2617102790072089991
+      make-pixel-art-pokemon-trainer-sprites_10: 5835049906547298967
+      make-pixel-art-pokemon-trainer-sprites_11: 1122401894913432093
+      make-pixel-art-pokemon-trainer-sprites_12: 1616369490783873325
+      make-pixel-art-pokemon-trainer-sprites_13: 8843165579677732920
+      make-pixel-art-pokemon-trainer-sprites_14: 6359685558334833075
+      make-pixel-art-pokemon-trainer-sprites_15: -7176836710061724294
+      make-pixel-art-pokemon-trainer-sprites_16: 1734623202219928029
+      make-pixel-art-pokemon-trainer-sprites_17: 3863380301863430866
+      make-pixel-art-pokemon-trainer-sprites_18: 5097856442936978864
+      make-pixel-art-pokemon-trainer-sprites_19: -1062402824380215970
+      make-pixel-art-pokemon-trainer-sprites_2: -6102158813908515395
+      make-pixel-art-pokemon-trainer-sprites_20: -8199702256236954293
+      make-pixel-art-pokemon-trainer-sprites_21: -2928919736262880764
+      make-pixel-art-pokemon-trainer-sprites_22: 2604309566242044793
+      make-pixel-art-pokemon-trainer-sprites_23: -5825459168360595156
+      make-pixel-art-pokemon-trainer-sprites_24: 4264788812884818445
+      make-pixel-art-pokemon-trainer-sprites_25: -8448088145615956911
+      make-pixel-art-pokemon-trainer-sprites_26: -5185483888304931299
+      make-pixel-art-pokemon-trainer-sprites_27: -6406692587858701602
+      make-pixel-art-pokemon-trainer-sprites_28: 6207779835276023506
+      make-pixel-art-pokemon-trainer-sprites_29: 2528582960601873538
+      make-pixel-art-pokemon-trainer-sprites_3: 2930393522384305818
+      make-pixel-art-pokemon-trainer-sprites_30: 5362389203544230064
+      make-pixel-art-pokemon-trainer-sprites_31: -6064803807391487942
+      make-pixel-art-pokemon-trainer-sprites_32: 7937259341615668287
+      make-pixel-art-pokemon-trainer-sprites_33: -7566061148444095174
+      make-pixel-art-pokemon-trainer-sprites_34: -367234929958919911
+      make-pixel-art-pokemon-trainer-sprites_35: -246924527923376985
+      make-pixel-art-pokemon-trainer-sprites_36: 5311720070752126439
+      make-pixel-art-pokemon-trainer-sprites_37: -7341753775702522789
+      make-pixel-art-pokemon-trainer-sprites_38: 7325514732843558205
+      make-pixel-art-pokemon-trainer-sprites_39: -4327684957977586967
+      make-pixel-art-pokemon-trainer-sprites_4: -804936881974841712
+      make-pixel-art-pokemon-trainer-sprites_40: 9191101775481079083
+      make-pixel-art-pokemon-trainer-sprites_41: 4677118464475635751
+      make-pixel-art-pokemon-trainer-sprites_42: 8949646113888791444
+      make-pixel-art-pokemon-trainer-sprites_43: 4075538684135219704
+      make-pixel-art-pokemon-trainer-sprites_44: 3340727461455946266
+      make-pixel-art-pokemon-trainer-sprites_45: 7235934028779069734
+      make-pixel-art-pokemon-trainer-sprites_46: 2286042764789937154
+      make-pixel-art-pokemon-trainer-sprites_47: -6247518058890913405
+      make-pixel-art-pokemon-trainer-sprites_48: -2165692380468750992
+      make-pixel-art-pokemon-trainer-sprites_49: 6303429683983399914
+      make-pixel-art-pokemon-trainer-sprites_5: 1765434560328920772
+      make-pixel-art-pokemon-trainer-sprites_50: -4078197079362685186
+      make-pixel-art-pokemon-trainer-sprites_51: -8172770825089011240
+      make-pixel-art-pokemon-trainer-sprites_52: 2474547052159319144
+      make-pixel-art-pokemon-trainer-sprites_6: -3632997541989234113
+      make-pixel-art-pokemon-trainer-sprites_7: 7051055091541824002
+      make-pixel-art-pokemon-trainer-sprites_8: -6659296320775018000
+      make-pixel-art-pokemon-trainer-sprites_9: -4173243195726596598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,8 +1,12 @@
 using System.Collections;
 using UnityEngine;
+using System;
 
-public class TrainerController : MonoBehaviour
+public class TrainerController : MonoBehaviour, Interactable
+
 {
+    [SerializeField] String name;
+    [SerializeField] Sprite sprite;
     [SerializeField] Dialog dialog;
     [SerializeField] GameObject exclamation;
     [SerializeField] GameObject fov;
@@ -17,6 +21,17 @@ public class TrainerController : MonoBehaviour
     private void Start()
     {
         SetFovRotation(character.Animator.DefaultDirection);
+    }
+
+    public void Interact(Transform initiator)
+    {
+        character.LookTowards(initiator.position);
+
+        StartCoroutine(DialogManager.Instance.ShowDialog(dialog, () =>
+        {
+            //Start battle
+            GameController.Instance.StartTrainerBattle(this);
+        }));
     }
 
     public IEnumerator TriggerTrainerBattle(PlayerController player)
@@ -37,7 +52,7 @@ public class TrainerController : MonoBehaviour
         StartCoroutine(DialogManager.Instance.ShowDialog(dialog, () =>
         {
             //Start battle
-            Debug.Log("Start Battle");
+            GameController.Instance.StartTrainerBattle(this);
         }));
     }
 
@@ -52,5 +67,13 @@ public class TrainerController : MonoBehaviour
             angle = 90f;
 
             fov.transform.eulerAngles = new Vector3(0f, 0f, angle);
+    }
+
+    public string Name {
+        get { return name; }
+    }
+
+    public Sprite Sprite {
+        get { return sprite; }
     }
 }
