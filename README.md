@@ -32,10 +32,7 @@ Ajout de bâtiments et d’éléments interactifs pour enrichir le monde.
 
 Installer Unity version 6000.2.8f1.
 
-Cloner ce dépôt ou télécharger le projet :
-
-git clone <URL_DU_DEPOT>
-
+Cloner le dépôt ou télécharger le projet :
 
 Ouvrir le projet dans Unity.
 
@@ -49,13 +46,13 @@ Le projet utilise actuellement des assets inspirés de Pokémon.
 
 # ⚠️ Pour un usage public :
 
-Remplacer les sprites, sons et noms par des créations originales ou libres de droit.
+Remplacer les sprites et noms par des créations originales ou libres de droit.
 
 Ne pas distribuer ou vendre le jeu avec les assets Pokémon existants.
 
 # 📸 Captures d’écran
 
-Ajoute ici quelques images du jeu pour montrer l’avancement
+
 
 # 🤝 Contribution
 
