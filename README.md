@@ -1,6 +1,7 @@
 # 🟢 Y-Pokeverse
 
-Y-Pokeverse est un projet en cours sur Unity visant à recréer l’expérience classique des jeux Pokémon. Le projet est en développement et offre déjà des combats, des effets d’attaques et un système de statuts secondaires fonctionnel.
+Y-Pokeverse est un projet étudiant et passionné, développé sur Unity.
+L’objectif n’est pas commercial, mais purement éducatif et récréatif : recréer un jeu inspiré de Pokémon pour améliorer mes compétences en game programming dans un univers que j’apprécie énormément.
 
 # 🎮 Fonctionnalités actuelles
 
@@ -28,6 +29,14 @@ Création de nouvelles zones et carte complète.
 
 Ajout de bâtiments et d’éléments interactifs pour enrichir le monde.
 
+# 💻 Objectif du projet
+
+Ce projet est avant tout un exercice d’apprentissage.
+Je souhaite approfondir mes compétences en développement de jeux vidéo (C#, Unity, architecture de gameplay, gestion d’état, IA simple)
+tout en travaillant sur un univers que j’aime depuis l’enfance : Pokémon.
+
+Ce projet n’a aucune visée commerciale, et n’est pas affilié à Nintendo, Game Freak ou The Pokémon Company.
+
 # 📦 Installation et utilisation
 
 Installer Unity version 6000.2.8f1.
@@ -42,13 +51,13 @@ Optionnel : ajouter des instructions sur les scènes à ouvrir dans Unity pour t
 
 # 🎨 Assets et copyright
 
-Le projet utilise actuellement des assets inspirés de Pokémon.
+Les assets actuellement utilisés (sprites, sons, etc.) sont temporairement issus de Pokémon à des fins strictement éducatives et personnelles.
 
-# ⚠️ Pour un usage public :
+# ⚠️ Pour toute diffusion publique :
 
-Remplacer les sprites et noms par des créations originales ou libres de droit.
+Ces contenus devront être remplacés par des créations originales ou libres de droits.
 
-Ne pas distribuer ou vendre le jeu avec les assets Pokémon existants.
+Le projet ne doit jamais être vendu ou monétisé.
 
 # 📸 Captures d’écran
 
@@ -71,4 +80,5 @@ Création d’assets originaux.
 
 # 📄 Licence
 
-Usage personnel uniquement. Ne pas distribuer ni vendre le jeu avec les assets Pokémon actuels.
+Projet à usage éducatif et personnel uniquement.
+Tous les éléments liés à Pokémon sont la propriété de The Pokémon Company, Nintendo, et Game Freak.
