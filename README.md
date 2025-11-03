@@ -2,7 +2,7 @@
 
 Y-Pokeverse est un projet en cours sur Unity visant à recréer l’expérience classique des jeux Pokémon. Le projet est en développement et offre déjà des combats, des effets d’attaques et un système de statuts secondaires fonctionnel.
 
-🎮 Fonctionnalités actuelles
+# 🎮 Fonctionnalités actuelles
 
 Déplacement du joueur sur la zone de départ.
 
@@ -14,7 +14,7 @@ Effets d’attaques visuels et coups critiques.
 
 Gestion des statuts secondaires : poison, brûlure, paralysie, etc.
 
-🛠 Fonctionnalités prévues
+# 🛠 Fonctionnalités prévues
 
 Système d’inventaire complet.
 
@@ -28,7 +28,7 @@ Création de nouvelles zones et carte complète.
 
 Ajout de bâtiments et d’éléments interactifs pour enrichir le monde.
 
-📦 Installation et utilisation
+# 📦 Installation et utilisation
 
 Installer Unity version 6000.2.8f1.
 
@@ -43,21 +43,21 @@ Pour tester une version jouable, accéder au dossier Build et lancer l’exécut
 
 Optionnel : ajouter des instructions sur les scènes à ouvrir dans Unity pour tester les combats.
 
-🎨 Assets et copyright
+# 🎨 Assets et copyright
 
 Le projet utilise actuellement des assets inspirés de Pokémon.
 
-⚠️ Pour un usage public :
+# ⚠️ Pour un usage public :
 
 Remplacer les sprites, sons et noms par des créations originales ou libres de droit.
 
 Ne pas distribuer ou vendre le jeu avec les assets Pokémon existants.
 
-📸 Captures d’écran
+# 📸 Captures d’écran
 
 Ajoute ici quelques images du jeu pour montrer l’avancement
 
-🤝 Contribution
+# 🤝 Contribution
 
 Le projet est ouvert à toutes suggestions et améliorations :
 
@@ -67,6 +67,6 @@ Correction de bugs.
 
 Création d’assets originaux.
 
-📄 Licence
+# 📄 Licence
 
 Usage personnel uniquement. Ne pas distribuer ni vendre le jeu avec les assets Pokémon actuels.
