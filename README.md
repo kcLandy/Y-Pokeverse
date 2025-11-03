@@ -52,7 +52,11 @@ Ne pas distribuer ou vendre le jeu avec les assets Pokémon existants.
 
 # 📸 Captures d’écran
 
-<img width="1919" height="1076" alt="Y-Pokeverse_3" src="https://github.com/user-attachments/assets/803d6eee-f724-4ef4-ac9b-2f9d7bcb9536" />
+<img width="720" height="520" alt="Y-Pokeverse_1" src="https://github.com/user-attachments/assets/54cccc71-4a25-4368-ba11-c27bd0b23f78" />
+
+<img width="720" height="520" alt="Y-Pokeverse_2" src="https://github.com/user-attachments/assets/3f6b7b14-b4c2-4a1f-90ab-47d1ed4311cf" />
+
+<img width="720" height="520" alt="Y-Pokeverse_3" src="https://github.com/user-attachments/assets/803d6eee-f724-4ef4-ac9b-2f9d7bcb9536" />
 
 
 # 🤝 Contribution
